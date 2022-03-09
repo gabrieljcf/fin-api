@@ -43,9 +43,9 @@ API that simulates banking operations
 :heavy_check_mark: List the customer's bank statement;\
 :heavy_check_mark: Make deposits;\
 :heavy_check_mark: Wire transfer;\
-:heavy_check_mark: List the customer's bank statement by date;
-:heavy_check_mark: Update customer account data;
-:heavy_check_mark: List customer account data;
+:heavy_check_mark: List the customer's bank statement by date;\
+:heavy_check_mark: Update customer account data;\
+:heavy_check_mark: List customer account data;\
 :heavy_check_mark: Delete an account;
 
 ## :rocket: Technologies ##
